@@ -1,0 +1,2 @@
+D:\vs\TP4\Exercice_5\Debug\Exercice_5.exe
+D:\vs\TP4\Exercice_5\Debug\Exercice_5.pdb

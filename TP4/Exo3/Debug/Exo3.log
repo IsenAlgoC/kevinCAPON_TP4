@@ -1,0 +1,4 @@
+﻿  Exo3.c
+D:\vs\TP4\Exo3\Exo3.c(20,15): warning C4013: '_getch' non défini(e) ; extern retournant int pris par défaut
+D:\vs\TP4\Exo3\Exo3.c(8,10): warning C4101: 'c' : variable locale non référencée
+  Exo3.vcxproj -> D:\vs\TP4\Debug\Exo3.exe
